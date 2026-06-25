@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+deep-translator==1.11.4
+kagglehub
