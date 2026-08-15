@@ -14,7 +14,7 @@ The platform provides farmers, FPOs, and traders with tools for price forecastin
 
 ## 🎥 Project Demo
 
-▶️ **[Watch GrainShieldPro Project Demo](YOUR_GOOGLE_DRIVE_LINK_HERE)**
+▶️ **[Watch GrainShieldPro Project Demo](https://drive.google.com/file/d/1TVVNkUSehZ0gNiLRNgy1D6WG6-7WSwRb/view?usp=sharing)**
 
 > Replace `YOUR_GOOGLE_DRIVE_LINK_HERE` with your Google Drive demo video link.
 
